@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yujina Shrestha</h1>
 <h3 align="center">CSIT Student | Aspiring Developer | Turning Ideas into Code</h3>
-<img align="right" alt="coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=qdAW1TjC&id=07B76B805A463F5C46717FBAA4C844FFC8770668&thid=OIP.qdAW1TjCN57h1lbuuzvchgHaFj&mediaurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f1857592%2fscreenshots%2f3848396%2fcharacter-typing.gif&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.a9d016d538c2379ee1d656eebb3bdc86%3frik%3daAZ3yP9EyKS6fw%26pid%3dImgRaw%26r%3d0&exph=600&expw=800&q=Girl+Coding+GIF&simid=608044280582075960&FORM=IRPRST&ck=D750D790251124079AB4E1148C8A40B3&selectedIndex=6&itb=0">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/248884004-af212da4-8588-4d7c-8400-16e56f2746a0.gif">
 
 - 🌱 I’m currently learning **Django**
 
